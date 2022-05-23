@@ -1,6 +1,5 @@
-## Hi there 👋 I'm Alex
+### I'm Alex & I enjoy 👍
 
-### I enjoy 👍
 * Computer Science
 * Python
 * Game Development
@@ -15,10 +14,10 @@
 * Typescript
 
 ### I'm currently improving 📈
-* My React skills
-* My Typescript skills
-* My AWS skills
-* My system design skills
+* React skills
+* Typescript skills
+* AWS skills
+* System design skills
 
 ### Languages and Frameworks 🔨
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
