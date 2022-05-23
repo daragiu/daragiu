@@ -1,4 +1,4 @@
-### I'm Alex & I enjoy 👍
+### In to 👍
 
 * Computer Science
 * Python
