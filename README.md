@@ -15,6 +15,7 @@
 
 ### Developing 📈
 * React skills
+* Unity 3D skills
 * Typescript skills
 * AWS skills
 * System design skills
