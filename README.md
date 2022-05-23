@@ -8,12 +8,12 @@
 * AWS (Amazon Web Services)
 * AI
 
-### I'm currently learning 🤔
+### Currently learning 🤔
 * Developing highly data intensive applications with AWS
 * Secure remote code execution
 * Typescript
 
-### I'm currently improving 📈
+### Developing 📈
 * React skills
 * Typescript skills
 * AWS skills
