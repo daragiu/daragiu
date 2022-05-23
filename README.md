@@ -1,4 +1,4 @@
-### In to 👍
+### I enjoy 👍
 
 * Computer Science
 * Python
